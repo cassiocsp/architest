@@ -561,4 +561,15 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_17c66890-e660-4482-8703-5789dc6ec933.xml#17c66890-e660-4482-8703-5789dc6ec933"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="59f56a12-aeb3-4cab-89ca-577f66bbcf44"
+      textAlignment="1"
+      content="Repo de teste">
+    <bounds
+        x="144"
+        y="96"
+        width="301"
+        height="97"/>
+  </children>
 </archimate:ArchimateDiagramModel>
